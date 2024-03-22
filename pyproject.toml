@@ -15,7 +15,7 @@ dependencies = [
     "pandas",
     "torchtuples==0.2.2",
     "numpy",
-    "torch==2.1.*",
+    "torch>=2.1.*",
     "matplotlib",
     "pycox==0.2.3",
     "scikit-learn==1.3.*",
